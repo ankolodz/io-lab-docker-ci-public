@@ -11,4 +11,4 @@ services:
   redis:
     image: redis:6.0-rc3
         volumes: 
-	- ./data:/data:z
+	- ./data:/dataprod:z
